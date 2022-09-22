@@ -15,6 +15,10 @@ body{
 
 #intro{
     color: green;
+    font-size: 30px;
+}
+
+.mainp{
     font-size: 20px;
 }
 
@@ -25,22 +29,44 @@ ul{
     font-size: 0;
 }
 
+.caption{
+    font-size: 40px;
+}
+
+div.container{
+    text-align: center;
+}
+
+.bottom_links{
+    display: inline-block;
+    text-align: center;
+}
+
 li{
     list-style: none;
 }
 
-.link{
-    display: inline-block;
-    width: 33%;
+.bottom_3_links{
     color: blue;
     font-size: 25px;
-    font-weight: bold;
+    font_weight: bold;
+    display: inline-block;
+    width: 33%;
+    text-decoration: none;
     text-align: center;
 }
 
-.link a{
-    color: black;
+.link{
+    color: blue;
     font-size: 25px;
+    font-weight: bold;
+    display: inline;
+    text-decoration: none;
+}
+
+.link a{
+    color: blue;
+    font-size: 30px;
     font-weight: bold;
     text-decoration: none;
 }
