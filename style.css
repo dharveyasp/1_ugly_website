@@ -3,19 +3,19 @@ box-sizing: border-box;
 }
 
 body{
-    background: #FFF url(https://saltandbaker.com/wp-content/uploads/2020/12/How-to-Cook-Bacon-in-the-Oven-2.jpg) no-repeat center center;
+    background: #FFF url(https://www.tastingtable.com/img/gallery/why-you-should-pay-attention-to-the-tail-of-your-watermelon/l-intro-1655671940.jpg) no-repeat center center;
     background-size: cover;
 }
 
 /* My Page Styles */
 .hero h1{
-    color: #0B24FB;
+    color: #EF2826;
     font-size: 60px;
 }
 
 #intro{
-    color: orange;
-    font-size: 10px;
+    color: green;
+    font-size: 20px;
 }
 
 ul{
@@ -32,14 +32,14 @@ li{
 .link{
     display: inline-block;
     width: 33%;
-    color: red;
+    color: blue;
     font-size: 25px;
     font-weight: bold;
     text-align: center;
 }
 
 .link a{
-    color: red;
+    color: black;
     font-size: 25px;
     font-weight: bold;
     text-decoration: none;
